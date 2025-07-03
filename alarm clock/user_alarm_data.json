@@ -1,0 +1,54 @@
+{
+  "alarm_history": [
+    {
+      "timestamp": "2025-06-25T11:20:52.858834",
+      "alarm_time": "08:00",
+      "label": "",
+      "repeat_days": [],
+      "creation_method": "manual",
+      "day_of_week": 2,
+      "hour_of_creation": 11
+    },
+    {
+      "timestamp": "2025-06-25T11:21:01.060316",
+      "alarm_time": "08:00",
+      "label": "",
+      "repeat_days": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "creation_method": "manual",
+      "day_of_week": 2,
+      "hour_of_creation": 11
+    },
+    {
+      "timestamp": "2025-06-25T11:21:29.264968",
+      "alarm_time": "17:00",
+      "label": "",
+      "repeat_days": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "creation_method": "manual",
+      "day_of_week": 2,
+      "hour_of_creation": 11
+    }
+  ],
+  "usage_patterns": {},
+  "preferences": {},
+  "snooze_patterns": {},
+  "wake_times": [],
+  "sleep_patterns": {},
+  "location_patterns": {},
+  "created_date": "2025-06-25T11:20:36.846858"
+}

@@ -1,0 +1,12 @@
+kivy>=2.1.0
+kivymd>=1.1.1
+plyer>=2.1.0
+requests>=2.25.0
+
+# AI/ML Dependencies for Smart Alarm Features
+SpeechRecognition>=3.10.0    # Voice commands
+pyaudio>=0.2.11              # Microphone input (may need system audio libs)
+scikit-learn>=1.3.0          # ML models for pattern recognition
+numpy>=1.24.0                # Data processing
+pandas>=2.0.0                # Data analysis for usage patterns
+

@@ -1,0 +1,25 @@
+{
+  "alarms": [
+    {
+      "time": "08:00",
+      "label": "",
+      "enabled": true,
+      "repeat_days": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "sound_file": "assets/sounds/default_alarm.wav",
+      "snooze_duration": 5,
+      "vibrate": true,
+      "snooze_count": 0,
+      "next_trigger": null,
+      "id": "477f2514-c99a-43c7-a760-15842c4eef55"
+    }
+  ],
+  "last_saved": "2025-06-25T15:55:54.284189"
+}
